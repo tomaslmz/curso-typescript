@@ -34,3 +34,18 @@
 -   Podemos utilizar funcionalidades modernas do JavaScript (import/export);
 -   O TypeScript Compiler irá compilar para um código que funcione em navegadores mais antigos.
 
+## Visão geral das vantagens e desvantagens
+
+### Vantagens
+
+-   Recursos avançados do JavaScript;
+-   Prevenção de erros de tipagem;
+-   Mais fácil identificar bugs;
+-   Código mais legível;
+-   Extremamente popular.
+
+### Desvantagens
+
+-   Escrevemos mais código;
+-   Há uma curva de aprendizado;
+-   Requer uma compilação para JavaScript.
