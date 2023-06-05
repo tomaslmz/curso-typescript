@@ -4,8 +4,8 @@
 
 # Capítulos
 
--   [ ] - Introdução
--   [ ] - Tipagem Dinâmica & Tipagem Estática
+-   [X] - Introdução
+-   [X] - Tipagem Dinâmica & Tipagem Estática
 -   [ ] - Linguagens Estáticas & Compiladores
 -   [ ] - O que é TypeScript?
 -   [ ] - Por que usar o TypeScript?
