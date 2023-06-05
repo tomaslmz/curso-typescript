@@ -17,5 +17,13 @@
 
 # Compiladores
 
--   O compilador de cada linguagem possui suas particularidades.
-    -   O TypeScript utiliza o TypeScript Compiler
+-   O compilador de cada linguagem possui suas particularidades;
+    -   O TypeScript utiliza o TypeScript Compiler.
+
+# O que é o TypeScript?
+
+-   É uma linguagem desenvolvida com base no JavaScript;
+-   Adiciona algumas funcionalidades e tipagem estática ao JavaScript;
+-   Todo código em TypeScript é convertido para o seu equivalente em JavaScript pelo TypeScript Compiler;
+    -   Ou seja, podemos usá-lo no back-end e front-end;
+    -   A necessidade de haver alguma conversão é por os navegadores não entenderem TypeScript.
