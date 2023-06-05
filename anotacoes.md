@@ -27,3 +27,9 @@
 -   Todo código em TypeScript é convertido para o seu equivalente em JavaScript pelo TypeScript Compiler;
     -   Ou seja, podemos usá-lo no back-end e front-end;
     -   A necessidade de haver alguma conversão é por os navegadores não entenderem TypeScript.
+
+# Por que usar o TypeScript?
+
+-   Por ser uma linguagem com tipagem estática, ele consegue previnir situações onde a variável precisa ser de um tipo específico;
+-   Podemos utilizar funcionalidades modernas do JavaScript (import/export);
+-   O TypeScript Compiler irá compilar para um código que funcione em navegadores mais antigos.
