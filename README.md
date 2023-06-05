@@ -7,7 +7,7 @@
 -   [X] - Introdução
 -   [X] - Tipagem Dinâmica & Tipagem Estática
 -   [X] - Linguagens Estáticas & Compiladores
--   [ ] - O que é TypeScript?
+-   [X] - O que é TypeScript?
 -   [ ] - Por que usar o TypeScript?
 -   [ ] - Visão geral das vantagens e desvantagens
 -   [ ] - Preparando o ambiente de desenvolvimento
