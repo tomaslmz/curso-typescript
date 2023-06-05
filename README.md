@@ -1,6 +1,6 @@
-# curso-typescript
+# Curso TypeScript
 
--   Este é um repositório dedicado ao <a href="https://www.youtube.com/watch?v=ppDsxbUNtNQ">curso de TypeScript</a> que estou usando para estudos.
+-   Este é um repositório dedicado ao <a href="https://www.youtube.com/watch?v=ppDsxbUNtNQ">curso de TypeScript</a>.
 
 # Capítulos
 
