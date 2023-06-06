@@ -57,3 +57,11 @@
 ```
 npm install -g typescript
 ```
+
+### Como compilar o código para JavaScript?
+
+-   Para isso, é necessário executar apenas esse comando
+
+```
+tsc [arquivo]
+```
