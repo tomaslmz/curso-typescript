@@ -49,3 +49,11 @@
 -   Escrevemos mais código;
 -   Há uma curva de aprendizado;
 -   Requer uma compilação para JavaScript.
+
+### Primeiro passo para poder executar o TypeScript
+
+-   É necessário executar o seguinte comando:
+
+```
+npm install -g typescript
+```
