@@ -12,7 +12,7 @@
 6.   [X] - Visão geral das vantagens e desvantagens
 7.   [X] - Preparando o ambiente de desenvolvimento
 8.   [X] - Criando o nosso primeiro código em TypeScript
-9.   [ ] - Arquivo de configuração (tsconfig)
+9.   [X] - Arquivo de configuração (tsconfig)
 10.   [ ] - Tipos Básicos do TypeScript
 11.   [ ] - Tuples
 12.   [ ] - Intersections

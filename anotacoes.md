@@ -65,3 +65,13 @@ npm install -g typescript
 ```
 tsc [arquivo]
 ```
+
+### Como configurar o compilador?
+
+- Para o começo da configuração, é necessário executar um comando no terminal que irá criar o arquivo de configuração do TypeScript
+
+```
+tsc --init
+```
+
+- Após isso, você tem o arquivo para poder configurar como quiser
