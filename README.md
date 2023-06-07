@@ -16,7 +16,7 @@
 10.   [X] - Tipos Básicos do TypeScript
 11.   [X] - Tuples
 12.   [X] - Intersections
-13.   [ ] - Enums
+13.   [X] - Enums
 14.   [ ] - Type Assertions
 15.   [ ] - Funções no TypeScript
 16.   [ ] - Types
