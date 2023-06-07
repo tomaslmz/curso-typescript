@@ -15,7 +15,7 @@
 9.   [X] - Arquivo de configuração (tsconfig)
 10.   [X] - Tipos Básicos do TypeScript
 11.   [X] - Tuples
-12.   [ ] - Intersections
+12.   [X] - Intersections
 13.   [ ] - Enums
 14.   [ ] - Type Assertions
 15.   [ ] - Funções no TypeScript
