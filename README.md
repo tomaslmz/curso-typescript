@@ -14,7 +14,7 @@
 8.   [X] - Criando o nosso primeiro código em TypeScript
 9.   [X] - Arquivo de configuração (tsconfig)
 10.   [X] - Tipos Básicos do TypeScript
-11.   [ ] - Tuples
+11.   [X] - Tuples
 12.   [ ] - Intersections
 13.   [ ] - Enums
 14.   [ ] - Type Assertions
