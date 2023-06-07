@@ -75,3 +75,9 @@ tsc --init
 ```
 
 - Após isso, você tem o arquivo para poder configurar como quiser
+
+### Como compilar um arquivo para o ES6 sem o tsconfig?
+
+```
+tsc [arquivo] -t ES6
+```
