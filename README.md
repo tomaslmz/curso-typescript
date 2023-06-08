@@ -19,7 +19,7 @@
 13.   [X] - Enums
 14.   [X] - Type Assertions
 15.   [X] - Funções no TypeScript
-16.   [ ] - Types
+16.   [X] - Types
 17.   [ ] - Propriedades possivelmente nulas
 18.   [ ] - Unions
 19.   [ ] - Interfaces
