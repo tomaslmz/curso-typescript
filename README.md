@@ -17,7 +17,7 @@
 11.   [X] - Tuples
 12.   [X] - Intersections
 13.   [X] - Enums
-14.   [ ] - Type Assertions
+14.   [X] - Type Assertions
 15.   [ ] - Funções no TypeScript
 16.   [ ] - Types
 17.   [ ] - Propriedades possivelmente nulas
