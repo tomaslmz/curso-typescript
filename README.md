@@ -20,7 +20,7 @@
 14.   [X] - Type Assertions
 15.   [X] - Funções no TypeScript
 16.   [X] - Types
-17.   [ ] - Propriedades possivelmente nulas
+17.   [X] - Propriedades possivelmente nulas
 18.   [ ] - Unions
 19.   [ ] - Interfaces
 20.   [ ] - Interfaces com funções
