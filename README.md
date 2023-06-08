@@ -21,7 +21,7 @@
 15.   [X] - Funções no TypeScript
 16.   [X] - Types
 17.   [X] - Propriedades possivelmente nulas
-18.   [ ] - Unions
+18.   [X] - Unions
 19.   [ ] - Interfaces
 20.   [ ] - Interfaces com funções
 21.   [ ] - Classes no TypeScript
