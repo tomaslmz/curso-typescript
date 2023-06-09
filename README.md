@@ -23,7 +23,7 @@
 17.   [X] - Propriedades possivelmente nulas
 18.   [X] - Unions
 19.   [X] - Interfaces
-20.   [ ] - Interfaces com funções
+20.   [X] - Interfaces com funções
 21.   [ ] - Classes no TypeScript
 22.   [ ] - Modificadores de Classes (readonly, protected, private)
 23.   [ ] - Subclasses no TypeScript
