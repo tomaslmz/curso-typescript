@@ -25,7 +25,7 @@
 19.   [X] - Interfaces
 20.   [X] - Interfaces com funções
 21.   [X] - Classes no TypeScript
-22.   [ ] - Modificadores de Classes (readonly, protected, private)
+22.   [X] - Modificadores de Classes (readonly, protected, private)
 23.   [ ] - Subclasses no TypeScript
 24.   [ ] - Generics
 25.   [ ] - Shorthand para Construtores de Classes
