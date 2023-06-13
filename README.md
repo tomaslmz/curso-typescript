@@ -27,7 +27,7 @@
 21.   [X] - Classes no TypeScript
 22.   [X] - Modificadores de Classes (readonly, protected, private)
 23.   [X] - Subclasses no TypeScript
-24.   [ ] - Generics
+24.   [X] - Generics
 25.   [ ] - Shorthand para Construtores de Classes
 26.   [ ] - TypeScript no React
 27.   [ ] - Conclusão
